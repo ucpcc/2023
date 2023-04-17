@@ -5,7 +5,7 @@ title: UCPC 2023
 
 ## 주요 공지
 
-- 아직 공지가 없습니다.
+- (4/17) [Call for tasks](/tasks)를 진행합니다.
 
 ---
 

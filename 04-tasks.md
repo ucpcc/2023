@@ -6,7 +6,7 @@ permalink: /tasks/
 
 UCPC 2023에 사용될 문제를 모집하고 있습니다! 여러분들의 창의적이고 재미있는 문제들을 기다립니다.
 
-Call for Tasks 일정은 추후 공지 예정입니다.
+Call for Tasks는 5월 15일까지 진행합니다.
 
 ## 제공 방식
 
