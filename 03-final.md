@@ -10,11 +10,13 @@ permalink: /final/
 
 ## 일정
 
-TBD
+2023년 7월 22일 10시 -- 18시
 
 ## 장소
 
-TBD
+SK텔레콤 분당 사옥
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3170.3873455541893!2d127.1135783153063!3d37.38067097983313!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357b5819dacf7907%3A0x538ccd75650f449f!2zU0tUIOu2hOuLueyCrOyYpQ!5e0!3m2!1sko!2skr!4v1686578481211!5m2!1sko!2skr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ---
 

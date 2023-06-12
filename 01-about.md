@@ -16,13 +16,20 @@ UCPC는 전국 대학생 프로그래밍 대회 동아리 연합<sup>전대프�
 
 ## 일정 및 장소
 
+### 예비소집
+
+2023년 6월 28일 12시 -- 7월 1일 0시, 온라인
+
 ### 예선
 
-TBD
+2023년 7월 1일 14시 -- 17시, 온라인
 
 ### 본선
 
-TBD
+2023년 7월 22일 10시 -- 18시, SK텔레콤 분당 사옥
+
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12681.54937880644!2d127.115767!3d37.380671!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x357b5819dacf7907%3A0x538ccd75650f449f!2zU0tUIOu2hOuLueyCrOyYpQ!5e0!3m2!1sko!2skr!4v1686578114542!5m2!1sko!2skr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## 참가 자격
 
