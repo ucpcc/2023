@@ -5,6 +5,7 @@ title: UCPC 2023
 
 ## 주요 공지
 
+- (6/28) 예비소집 및 예선 대회에서 사용할 계정을 발송하였습니다. 메일을 받지 못한 경우 문의는 <a href="#" class="mail-address" data-name="contact" data-domain="ucpc" data-tld="me" onclick="window.location.href = 'mailto:' + this.dataset.name + '@' + this.dataset.domain + '.' + this.dataset.tld"></a> 으로 부탁드립니다.
 - (6/21) 대회 참가와 관련한 문의는 <a href="#" class="mail-address" data-name="contact" data-domain="ucpc" data-tld="me" onclick="window.location.href = 'mailto:' + this.dataset.name + '@' + this.dataset.domain + '.' + this.dataset.tld"></a> 으로 부탁드립니다.
 - (6/21) 참가 신청 기간이 6월 24일 까지로 연장되었습니다.
 - (6/17) UCPC 2023의 [참가 신청](https://forms.gle/aQzqEMes1tZACEfGA)을 받고 있습니다. 참가 신청의 승인 결과 또한 [확인 가능](https://docs.google.com/spreadsheets/d/1kDzo9vjREBC_D6UpWP79nti1HF9JlcmaGx95bbfq5Gs/edit?usp=sharing)합니다.
