@@ -5,6 +5,7 @@ title: UCPC 2023
 
 ## 주요 공지
 
+- (7/12) 지참해야 하는 신분증과 관련하여 공지했습니다.
 - (7/2) 본선 등록과 관련한 메일을 발송하였습니다.
 - (7/1) 예선 대회가 종료되었습니다. 본선 진출 팀 및 본선 등록 절차에 대해 공지하였으니 [링크](https://www.acmicpc.net/board/view/120816)를 확인해주세요.
 - (6/28) 예비소집 및 예선 대회에서 사용할 계정을 발송하였습니다. 메일을 받지 못한 경우 문의는 <a href="#" class="mail-address" data-name="contact" data-domain="ucpc" data-tld="me" onclick="window.location.href = 'mailto:' + this.dataset.name + '@' + this.dataset.domain + '.' + this.dataset.tld"></a> 으로 부탁드립니다.
